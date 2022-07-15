@@ -6,7 +6,7 @@ I love cookies, kiwi and code
 
 Skills: REACT NATIVE / REACT / JS / HTML / CSS/ C#
 
-- 🔭 I’m currently working on my kiwi app. 
+- 🔭 I’m currently working on my kiwi app and this page.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nA-kidka)  
