@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nikita</h1>
+<h1 align="center">Hi there, I'm Nikita 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, novice specialist in the field of information technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=na-kidka&label=Profile%20views&color=0e75b6&style=flat" alt="na-kidka" /> </p>
